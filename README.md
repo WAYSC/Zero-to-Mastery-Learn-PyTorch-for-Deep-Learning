@@ -22,9 +22,10 @@ The goal of this project is not only to complete the course exercises, but also 
 ├── assets/
 │   └── images/              
 ├── models/                  
-├── 00_tutorial.ipynb        
-├── 00_practice.ipynb        
-├── 01_tutorial.ipynb        
+├── 00_tutorial.ipynb ✅    
+├── 00_practice.ipynb ✅       
+├── 01_tutorial.ipynb ✅   
+├── 01_practice.ipynb ✅
 └── README.md
 ```
 
