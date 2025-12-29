@@ -5,3 +5,8 @@ assets/*.DS_Store
 
 models/*.pth
 *.pth
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
