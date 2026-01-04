@@ -23,10 +23,11 @@ The goal of this project is not only to complete the course exercises, but also 
 │   └── images/              
 ├── models/                  
 ├── 00_tutorial.ipynb ✅    
-├── 00_practice.ipynb ✅       
+├── 00_exercises.ipynb ✅       
 ├── 01_tutorial.ipynb ✅   
-├── 01_practice.ipynb ✅
+├── 01_exercises.ipynb ✅
 ├── 02_tutorial.ipynb ✅
+├── 02_exercises.ipynb ✅
 └── README.md
 ```
 
