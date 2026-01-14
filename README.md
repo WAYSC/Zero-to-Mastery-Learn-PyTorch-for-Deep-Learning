@@ -28,6 +28,7 @@ The goal of this project is not only to complete the course exercises, but also 
 ├── 01_exercises.ipynb ✅
 ├── 02_tutorial.ipynb ✅
 ├── 02_exercises.ipynb ✅
+├── 03_tutorial.ipynb ✅
 └── README.md
 ```
 
