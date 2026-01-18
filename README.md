@@ -29,7 +29,7 @@ The goal of this project is not only to complete the course exercises, but also 
 ├── 02_classification_tutorial.ipynb ✅
 ├── 02_classification_exercises.ipynb  ✅
 ├── 03_computer_vision_tutorial.ipynb ✅
-├── 03_computer_vision_tutorial.ipynb ✅
+├── 03_computer_vision_exercises.ipynb ✅
 └── README.md
 ```
 
