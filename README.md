@@ -22,13 +22,14 @@ The goal of this project is not only to complete the course exercises, but also 
 ├── assets/
 │   └── images/              
 ├── models/                  
-├── 00_tutorial.ipynb ✅    
-├── 00_exercises.ipynb ✅       
-├── 01_tutorial.ipynb ✅   
-├── 01_exercises.ipynb ✅
-├── 02_tutorial.ipynb ✅
-├── 02_exercises.ipynb ✅
-├── 03_tutorial.ipynb ✅
+├── 00_fundamentals_tutorial.ipynb ✅    
+├── 00_fundamentals_exercises.ipynb ✅       
+├── 01_workflow_tutorial.ipynb ✅   
+├── 01_workflow_exercises.ipynb ✅
+├── 02_classification_tutorial.ipynb ✅
+├── 02_classification_exercises.ipynb  ✅
+├── 03_computer_vision_tutorial.ipynb ✅
+├── 03_computer_vision_tutorial.ipynb ✅
 └── README.md
 ```
 
