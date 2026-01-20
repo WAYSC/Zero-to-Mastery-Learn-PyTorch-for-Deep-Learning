@@ -9,8 +9,7 @@ import argparse
 from torchvision import transforms
 
 def parse_args():
-    """解析命令行传入的超参数"""
-    parser = argparse.ArgumentParser(description="训练pizza_steak_sushi分类模型")
+    parser = argparse.ArgumentParser(description="train on pizza_steak_sushi")
     
     parser.add_argument("--learning_rate", 
                         type=float, 
