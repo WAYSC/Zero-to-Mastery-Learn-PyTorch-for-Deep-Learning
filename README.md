@@ -21,7 +21,9 @@ The goal of this project is not only to complete the course exercises, but also 
 .
 ├── assets/
 │   └── images/              
-├── models/                  
+├── models/     
+├── data/      
+├── going_modular/             
 ├── 00_fundamentals_tutorial.ipynb ✅    
 ├── 00_fundamentals_exercises.ipynb ✅       
 ├── 01_workflow_tutorial.ipynb ✅   
@@ -30,6 +32,7 @@ The goal of this project is not only to complete the course exercises, but also 
 ├── 02_classification_exercises.ipynb  ✅
 ├── 03_computer_vision_tutorial.ipynb ✅
 ├── 03_computer_vision_exercises.ipynb ✅
+├── 05_going_modual_tutorial.ipynb ✅
 └── README.md
 ```
 
