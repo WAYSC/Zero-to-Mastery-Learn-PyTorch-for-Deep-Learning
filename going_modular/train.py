@@ -70,6 +70,6 @@ engine.train(model=model,
              epochs=NUM_EPOCHS,
              device=device)
 
-utils.sav_model(model=model,
+utils.save_model(model=model,
                 target_dir="models",
                 model_name="05_going_modual_tinyvgg_model.pth")

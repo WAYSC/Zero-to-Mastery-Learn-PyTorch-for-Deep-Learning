@@ -33,6 +33,7 @@ The goal of this project is not only to complete the course exercises, but also 
 ├── 03_computer_vision_tutorial.ipynb ✅
 ├── 03_computer_vision_exercises.ipynb ✅
 ├── 05_going_modual_tutorial.ipynb ✅
+├── 07_experiment_tracking_tutorial.ipynb ✅
 └── README.md
 ```
 

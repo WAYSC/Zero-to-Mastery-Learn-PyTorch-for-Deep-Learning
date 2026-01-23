@@ -34,6 +34,7 @@ def train_step(model: torch.nn.Module,
     """   
     # Put model in train mode
     model.train()
+    model.to(device)
 
     # Setup train loss and train accuracy values
     train_loss, train_acc = 0, 0
@@ -81,6 +82,7 @@ def test_step(model: torch.nn.Module,
     """
     # Put model in eval mode
     model.eval()
+    model.to(device)
 
     # Setup test loss and test accuracy
     test_loss, test_acc = 0, 0
@@ -146,6 +148,8 @@ def train(model: torch.nn.Module,
                "train_acc": [],
                "test_loss": [],
                "test_acc": []}
+    
+    model.to(device)
     
     for epoch in tqdm(range(epochs)):
         train_loss, train_acc = train_step(model = model,
